@@ -1,3 +1,4 @@
 bin/**
 .vscode
 .vscode/**
+include/*.h.gch
